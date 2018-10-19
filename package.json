@@ -1,0 +1,14 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Solutions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andres Manuel Arias Ariza",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
